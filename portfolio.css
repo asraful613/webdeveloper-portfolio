@@ -7,6 +7,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 0 200px;
 }
 .nav-title{
   color:black;
@@ -33,4 +34,15 @@ nav a{
   padding:10px;
   border-radius: 5px;
   color:white;
+}
+/* header related styles */
+.header{
+  background-color:rgb(241, 237, 237);
+}
+.banner{
+  padding:30px 30px 30px 150px;
+  display:flex;
+}
+.banner profile{
+  width: 500px;
 }
